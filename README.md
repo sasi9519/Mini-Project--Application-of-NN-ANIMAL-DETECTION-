@@ -194,6 +194,8 @@
 
 ## Output:
     ELEPHANT:
-    
+  ![a](https://user-images.githubusercontent.com/83326978/205448426-7ec21d59-14ce-438d-976c-c30cb9e1db08.png)
+  
+
 ## Advantage :
 ## Result:
