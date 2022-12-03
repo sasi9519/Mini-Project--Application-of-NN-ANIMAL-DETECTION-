@@ -197,5 +197,8 @@
   ![a](https://user-images.githubusercontent.com/83326978/205448426-7ec21d59-14ce-438d-976c-c30cb9e1db08.png)
   
 
+
 ## Advantage :
+This algorithm classifies animals based on their images so we can monitor them more efficiently. Animal detection and classification can help to prevent animal-vehicle accidents, trace animals and prevent theft. This can be achieved by applying effective deep learning algorithms.
 ## Result:
+Thus,the program has been implemented successfully and the output was obtained.
