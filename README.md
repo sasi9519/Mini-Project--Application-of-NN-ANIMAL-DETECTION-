@@ -5,21 +5,15 @@
 ## Project Description
 Animal Detection solution is a State-of-the-art Computer Vision and Artificial Intelligence based application that enables you to monitor your animal population with ease using traditional mounted cameras or drones to capture video feeds. Our Animal Detection solution will help keep track of your animals and provide an overall count.
 ## Algorithm:
-    Step 1:
-    Read the csv file and create the Data frame using pandas.
-    Step 2:
-    Select the " Open " column for prediction. Or select any column of your interest
+    Step 1:Read the csv file and create the Data frame using pandas.
+    Step 2: Select the " Open " column for prediction. Or select any column of your interest
     and scale the values using MinMaxScaler.
-    Step 3:
-    Create two lists for X_train and y_train. And append the collection of 60 readings
+    Step 3:Create two lists for X_train and y_train. And append the collection of 60 readings
     in X_train, for which the 61st reading will be the first output in y_train.
-    Step 4:
-    Create a model with the desired number of nuerons and one output neuron.
-    Step 5:
-    Follow the same steps to create the Test data. But make sure you combine the
+    Step 4:Create a model with the desired number of nuerons and one output neuron.
+    Step 5:Follow the same steps to create the Test data. But make sure you combine the
     training data with the test data.
-    Step 6:
-    Make Predictions and plot the graph with the Actual and Predicted values.
+    Step 6:Make Predictions and Find the Animal types
 
 ## Program:
 
