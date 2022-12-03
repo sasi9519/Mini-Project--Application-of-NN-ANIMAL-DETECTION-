@@ -46,7 +46,7 @@ Animal Detection solution is a State-of-the-art Computer Vision and Artificial I
     BS = 32
     default_image_size = tuple((256, 256))
     image_size = 0
-    directory_root = '../input/plantvillage/'
+    directory_root = '/AnimalsImage'
     width=256
     height=256
     depth=3
@@ -194,15 +194,20 @@ Animal Detection solution is a State-of-the-art Computer Vision and Artificial I
 
 ## Output:
    ![Screenshot (34)](https://user-images.githubusercontent.com/83326978/205449157-a17a0dfa-ba00-4f9f-8ed3-2fc58a235311.png)
+   
 
 
-![Screenshot (35)](https://user-images.githubusercontent.com/83326978/205449168-7603d445-e5a6-44d9-b014-9c6719d94a45.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/83326978/205449600-5be68cf5-188c-4142-884d-4ddb893ef70d.png)
 
 
-![Screenshot (36)](https://user-images.githubusercontent.com/83326978/205449172-189f2be5-8f2c-4d35-9f16-e22977707e76.png)
+
+![Screenshot (40)](https://user-images.githubusercontent.com/83326978/205449601-e1552a42-3479-4bbc-8528-eef80992496d.png)
+
 
     ELEPHANT:
-  ![a](https://user-images.githubusercontent.com/83326978/205448426-7ec21d59-14ce-438d-976c-c30cb9e1db08.png)
+   ![Screenshot (41)](https://user-images.githubusercontent.com/83326978/205449665-7cf55f94-59ab-499d-9919-82a0db498ef6.png)
+
+  
   
 
 
