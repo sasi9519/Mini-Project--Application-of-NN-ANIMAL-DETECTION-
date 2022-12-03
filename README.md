@@ -1,9 +1,9 @@
 # Mini-Project--Application-of-NN
 
-
-(Expected the following details in the report )
 ## Project Title:
-## Project Description 
+ ANIMAL DETECTION USING CNN
+## Project Description
+Animal Detection solution is a State-of-the-art Computer Vision and Artificial Intelligence based application that enables you to monitor your animal population with ease using traditional mounted cameras or drones to capture video feeds. Our Animal Detection solution will help keep track of your animals and provide an overall count.
 ## Algorithm:
     Step 1:
     Read the csv file and create the Data frame using pandas.
