@@ -193,6 +193,14 @@ Animal Detection solution is a State-of-the-art Computer Vision and Artificial I
 
 
 ## Output:
+   ![Screenshot (34)](https://user-images.githubusercontent.com/83326978/205449157-a17a0dfa-ba00-4f9f-8ed3-2fc58a235311.png)
+
+
+![Screenshot (35)](https://user-images.githubusercontent.com/83326978/205449168-7603d445-e5a6-44d9-b014-9c6719d94a45.png)
+
+
+![Screenshot (36)](https://user-images.githubusercontent.com/83326978/205449172-189f2be5-8f2c-4d35-9f16-e22977707e76.png)
+
     ELEPHANT:
   ![a](https://user-images.githubusercontent.com/83326978/205448426-7ec21d59-14ce-438d-976c-c30cb9e1db08.png)
   
